@@ -1,2 +1,1 @@
-# Machine-Learning
-### check out all my ML algorithm projects!
+### Check out all my Machine Learning projects!
